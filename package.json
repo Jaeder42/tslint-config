@@ -1,0 +1,10 @@
+{
+  "name": "jaeder-tslint",
+  "version": "1.0.0",
+  "description": "TSLinter settings",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan Jäderblom",
+  "license": "ISC"
+}
